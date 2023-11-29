@@ -2,8 +2,7 @@ name = "sharex-r2-cloudflare-workers"
 account_id = "522ed7942a6ec29727e101623a48ea76"
 workers_dev = true
 routes = [
-	{pattern = "r2-sharex.jross.me/*", zone_name = "jross.me"},
-	{pattern = "i.james.pub/*", zone_name = "james.pub"}
+	{pattern = "cdn.pixelbattle.fun/*", zone_name = "pixelbattle.fun"}
 ]
 
 compatibility_date = "2022-04-22"
