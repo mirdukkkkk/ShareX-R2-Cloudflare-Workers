@@ -1,5 +1,5 @@
 name = "sharex-r2-cloudflare-workers"
-account_id = "5660e8eeb82fe224e7c10b6f785e72bd"
+account_id = "6bde0a9593ddc86aa69ad8dd94348368"
 workers_dev = true
 routes = [
 	{pattern = "cdn.pixelbattle.fun/*", zone_name = "pixelbattle.fun"}
